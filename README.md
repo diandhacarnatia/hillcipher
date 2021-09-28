@@ -6,7 +6,9 @@ Anggota Kelompok :
 
 Hasil Program Hill Cipher
 - Enkripsi & Dekripsi
-<img width="376" alt="Screen Shot 2021-09-28 at 23 34 39" src="https://user-images.githubusercontent.com/61409476/135128862-1fbbdc67-a568-4e68-90cf-ad16fd455899.png">
+
+![1632846799618](https://user-images.githubusercontent.com/61409480/135130883-1bef8b00-0eb2-4092-9206-7bf031fd639c.jpeg)
 
 - Mencari Matrix Kunci K
-<img width="391" alt="Screen Shot 2021-09-28 at 23 35 11" src="https://user-images.githubusercontent.com/61409476/135128893-4464b64c-8585-4770-8846-f200b2ed8655.png">
+
+![1632846869605](https://user-images.githubusercontent.com/61409480/135130894-1b616604-cbc0-43fb-ad6c-eb0f8b2bd953.jpeg)
